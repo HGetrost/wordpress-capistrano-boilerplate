@@ -1,0 +1,45 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+*error_log
+
+# Dependency directory
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Gems
+*.gem
+.bundle
+
+# Apache
+# .htaccess
+
+# Config
+/config.php
+
+# Uploads folder
+# config/uploads
+
+# prod files
+# prod.*
+
+# cache
+# content/cache
+
+# Updraft plugin
+# content/updraft/backup_*
+# content/updraft/log*.txt
+
+# w3tc plugin
+# content/w3tc-config
+# content/w3tc-config/*
+# content/db.php
+# content/object-cache.php
+# content/advanced-cache.php
+# content/plugins/w3tc-wp-loader.php
